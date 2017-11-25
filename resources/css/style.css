@@ -1,0 +1,26 @@
+body{
+  background-image: url(/Users/sajover/Documents/Proyectos/Broadway/resources/images/the-flatiron-building.png);
+background-repeat: no-repeat;
+font-family: Helvetica;
+
+}
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: White;
+  text-align: center;
+}
+
+li {text-align: center;
+  list-style-type: none;
+  font-family: 18px;
+  color: white;
+  webkit-margin-before:1em;
+  webkit-margin-after:1em;
+  webkit-margin-start:0px;
+  webkit-margin-end:0px;
+
+}
+li{
+  color: white;
+}
