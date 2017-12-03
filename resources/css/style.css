@@ -26,3 +26,9 @@ font-weight: bold;
   color:white;
   background-image: url(/Users/sajover/Documents/Proyectos/Broadway/resources/images/the-flatiron-building.png);
 }
+.footer {
+  background-color: dimgray;
+  color:white;
+  text-align: left;
+  font-size: 11px;
+}
